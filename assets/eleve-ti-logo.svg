@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 150" role="img" aria-labelledby="title desc">
   <title id="title">ELEVE TI</title>
   <desc id="desc">ELEVE TI — Tecnologia e Sistemas</desc>
-  <g fill="none" stroke="#ff6a00" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+  <g transform="translate(0 -12)" fill="none" stroke="#ff6a00" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
     <path d="M85 68H73c-13 0-23-10-23-23 0-13 10-23 23-23 5-13 18-20 31-17 9 2 16 8 20 17 15-7 33 4 33 21 0 13-10 24-23 25h-9"/>
     <rect x="87" y="43" width="50" height="12" rx="3"/><rect x="87" y="57" width="50" height="12" rx="3"/><rect x="87" y="71" width="50" height="12" rx="3"/>
     <path d="M95 49h1m-1 14h1m-1 14h1"/>
